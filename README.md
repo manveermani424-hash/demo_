@@ -2,4 +2,4 @@
 this my first git repository.
 <br>
 
-# Manveer singh
+# AUTHOR : Manveer singh
